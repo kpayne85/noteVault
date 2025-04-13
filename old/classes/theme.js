@@ -1,4 +1,4 @@
-class theme {
+export default class theme {
     #colors;
     constructor(colorObjArr) {
         this.#colors = [];
